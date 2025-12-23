@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君宛て紙ヒコーキ",
+  "base_artist": "太陽と踊れ",
+  "createdAt": "2025-12-23T02:39:01.872085Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君宛て紙ヒコーキ",
+      "artist": "太陽と踊れ",
+      "has_synced": false,
+      "path": "select/pl_01_君宛て紙ヒコーキ_太陽と踊れ.txt"
+    }
+  ]
+}
